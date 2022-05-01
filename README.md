@@ -16,6 +16,13 @@
 [![icons8-instagram-48](https://user-images.githubusercontent.com/74146104/166147777-3fb9b854-dad7-423b-8d2c-3f880d700f95.png)](https://www.instagram.com/giorgos_chantziplakis/)
 
 ### Languages and Tools:
-  
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
+![icons8-python-48](https://user-images.githubusercontent.com/74146104/166147977-5062414c-1a16-4ee6-b234-7b1bfb49a282.png)
+![icons8-r-64](https://user-images.githubusercontent.com/74146104/166147995-75925b76-e10f-46f2-88f2-5384ee4fa1eb.png)
+![icons8-mysql-logo-48](https://user-images.githubusercontent.com/74146104/166148001-7d1dc12c-6a95-436c-a4ef-683d2d62a9ac.png)
+![icons8-matlab-48](https://user-images.githubusercontent.com/74146104/166148019-c57aaeb5-ce37-472f-8202-438fb41d5101.png)
+![icons8-jupyter-48](https://user-images.githubusercontent.com/74146104/166148009-bc70ccb8-7343-4b74-bbb5-2ba300ae5a3e.png)
+![icons8-hadoop-distributed-file-system-48](https://user-images.githubusercontent.com/74146104/166148028-f928ba47-4d16-4610-bd65-78c949e8c403.png)
+![icons8-intellij-idea-48](https://user-images.githubusercontent.com/74146104/166148035-79d6b72e-ce79-409e-b614-28240375e82d.png)
+![icons8-visual-studio-48](https://user-images.githubusercontent.com/74146104/166148085-fe695ab7-f084-45af-9d88-a74f46972ca0.png)
+![icons8-rstudio-48](https://user-images.githubusercontent.com/74146104/166148095-0b09ece8-9800-4709-b10f-49a6a5d5d28d.png)
