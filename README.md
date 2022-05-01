@@ -7,14 +7,16 @@
 - :blue_book: I got my first paper publication from IJoSE regarding a Natural Language Processing problem - DOI: 10.4018/IJoSE.292445
 - :notebook: In my free time I like to write small articles and share them with my network. You can find them here: [Georgios' LinkedInn posts](https://www.linkedin.com/in/giorgos-xantziplakis/recent-activity/posts/)
 - 💬 Ask me about Natural Language Processing or any other topics related to Machine Learning
-- 📫 How to reach me: [LinkedInn - @Georgios Chatnziplakis](https://www.linkedin.com/in/giorgos-xantziplakis/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Once I tried to run a marathon...BIG MISTAKE!
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/giorgos-xantziplakis/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/giorgos-xantziplakis/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[LinkedInn - @Georgios Chatnziplakis](https://www.linkedin.com/in/giorgos-xantziplakis/)
+<br />
+[Instagram - @Georgios Chatnziplakis](https://www.instagram.com/giorgos_chantziplakis/)
+
+### Languages and Tools:
+  
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
