@@ -1,6 +1,6 @@
 ## Hello, my name is Georgios Chantziplakis and this is my portfolio
 
-### I am a mathematician (BSc) with an MSc in Data Science & Computational Intelligence
+### I am a mathematician (BSc) with a master (MSc) in Data Science & Computational Intelligence
 
 - 🔭 I’m currently working on Cundall, London as a Data Analyst
 - 🌱 I’m really interested in Machine Learning and Deep Learning
