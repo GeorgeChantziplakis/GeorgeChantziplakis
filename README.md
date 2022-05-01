@@ -13,7 +13,7 @@
 [![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/74146104/166147630-6f0c9a0b-b056-4bf8-bd8b-99a7985216b0.png)](https://www.linkedin.com/in/giorgos-xantziplakis/)
 [![icons8-instagram-48](https://user-images.githubusercontent.com/74146104/166147777-3fb9b854-dad7-423b-8d2c-3f880d700f95.png)](https://www.instagram.com/giorgos_chantziplakis/)
 
-### Languages and Tools:
+### Languages and Software:
 
 ![icons8-python-48](https://user-images.githubusercontent.com/74146104/166147977-5062414c-1a16-4ee6-b234-7b1bfb49a282.png)
 ![icons8-r-64](https://user-images.githubusercontent.com/74146104/166147995-75925b76-e10f-46f2-88f2-5384ee4fa1eb.png)
