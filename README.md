@@ -24,3 +24,5 @@
 ![icons8-intellij-idea-48](https://user-images.githubusercontent.com/74146104/166148035-79d6b72e-ce79-409e-b614-28240375e82d.png)
 ![icons8-visual-studio-48](https://user-images.githubusercontent.com/74146104/166148085-fe695ab7-f084-45af-9d88-a74f46972ca0.png)
 ![icons8-rstudio-48](https://user-images.githubusercontent.com/74146104/166148095-0b09ece8-9800-4709-b10f-49a6a5d5d28d.png)
+![icons8-tableau-software-48](https://user-images.githubusercontent.com/74146104/166167698-00387037-0f88-441f-ac90-27da2151fe0c.png)
+![icons8-power-bi-48](https://user-images.githubusercontent.com/74146104/166167693-f8f56abe-1858-4c2b-b419-4631eba4d366.png)
