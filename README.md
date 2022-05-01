@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on Cundall as a Data Analyst
 - 🌱 I’m currently learning Deep Learning and Machine Learning 
 - 💬 Ask me about Natural Language Processing or any other topics related to Machine Learning
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedInn - @Georgios Chatnziplakis](https://www.linkedin.com/in/giorgos-xantziplakis/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Once I tried to run a marathon...BIG MISTAKE!
